@@ -1,0 +1,2 @@
+storageaccountname="sa12ajustorageaccount"
+enable_https_traffic_only=true
